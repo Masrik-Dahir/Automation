@@ -14,7 +14,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
-import com.example.dfa_game.R;
+import com.masrik.automation.R;
 
 public class Game extends AppCompatActivity {
 

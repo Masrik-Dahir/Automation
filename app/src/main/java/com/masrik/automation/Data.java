@@ -1,6 +1,6 @@
 package com.masrik.automation;
 
-import com.example.dfa_game.R;
+import com.masrik.automation.R;
 
 public class Data {
     Object[][] database = new Object[50][6];

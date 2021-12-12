@@ -1,12 +1,11 @@
 package com.masrik.automation;
-        import androidx.appcompat.app.AppCompatActivity;
-        import android.graphics.Bitmap;
-        import android.os.Bundle;
-        import android.webkit.WebSettings;
-        import android.webkit.WebView;
-        import android.webkit.WebViewClient;
-
-        import com.example.dfa_game.R;
+import androidx.appcompat.app.AppCompatActivity;
+import android.graphics.Bitmap;
+import android.os.Bundle;
+import android.webkit.WebSettings;
+import android.webkit.WebView;
+import android.webkit.WebViewClient;
+import com.masrik.automation.R;
 
 
 public class Cfg2cnf extends AppCompatActivity {

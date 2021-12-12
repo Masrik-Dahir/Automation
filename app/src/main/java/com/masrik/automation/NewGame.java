@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.dfa_game.R;
+import com.masrik.automation.R;
 
 public class NewGame extends AppCompatActivity {
     ImageView question;

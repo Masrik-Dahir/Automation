@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.example.dfa_game.R;
+import com.masrik.automation.R;
 
 public class MainActivity extends AppCompatActivity {
     Button start, regex2nfa, nfa2dfa, min_dfa, cfg2ll, cfg2cnf;

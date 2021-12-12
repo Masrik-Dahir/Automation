@@ -5,7 +5,7 @@ import android.os.Handler;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.dfa_game.R;
+import com.masrik.automation.R;
 
 public class Correct extends AppCompatActivity {
 
