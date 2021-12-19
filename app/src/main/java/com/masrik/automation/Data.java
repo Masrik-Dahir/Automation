@@ -22,13 +22,6 @@ public class Data {
         database[1][4] = "Only input strings wontaining sequences of \"ab\"";
         database[1][5] = "B)";
 
-//        Question 1
-        database[2][0] = R.drawable.even0s;
-        database[2][1] = "Input string has an even number of 1's";
-        database[2][2] = "Input string has an odd number of 1's";
-        database[2][3] = "Input string has an even number of 0's";
-        database[2][4] = "Input string has an odd number of 0's";
-        database[2][5] = "A)";
 
     }
 
