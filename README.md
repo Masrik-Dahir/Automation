@@ -5,3 +5,5 @@
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+Google Play Store - https://play.google.com/store/apps/details?id=com.masrik.automation
+
